@@ -24,7 +24,39 @@ h1 {
     font-size: large;
 }
  
-  
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: rgb(1, 0, 2);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
+}
+p{
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  color: blue;
+}
+h1.warning,note{
+  color: blue;
+  background-color: yellow;
+}
+#note1 {
+  color: green;
+}
+.comment{
+  border: 4px solid #666;
+  padding: 5xp;
+  background-color: rgb(255, 255, 53);
+}
+
+article > p{
+  font-weight: bold;
+  font-color: tomato;
+}
 
   
   
