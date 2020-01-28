@@ -1,19 +1,27 @@
 .navbar{
-    position: fixed;
-    width: 100%;  
+    position: static;
+    width: 100%;
+    background-color: black;
 }
 
-a{
-    
+.nav-link{
+    color: rgb(255, 195, 255);
+}
+
+.nav-link:hover{
+    color: rgb(181, 169, 255);
+}
+
+.container-fluid{
+    background-color: black;
 }
 
 h1 {
-    color: rgb(1, 0, 2);
+    color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 60px;
 }
 
 h2{
-    color: black;
+    color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
 }
