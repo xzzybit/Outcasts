@@ -34,6 +34,23 @@
     }
 }
 
+.frametwo{
+    width: 733px;
+    height: inherit;
+    border: 0px solid rgb(1, 0, 7);
+    background-color: rgb(255, 255, 255);
+    margin: inherit;
+    padding: 10px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 820px){
+    .frametwo{
+        width: inherit;
+        height: inherit;
+    }
+}
+
 .container-fluid{
     background-color: black;
 }
