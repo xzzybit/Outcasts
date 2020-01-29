@@ -18,25 +18,39 @@
     display: flex;
     flex-wrap: wrap;
     padding: 0 4px;
+    
   }
+  
+
+
+
   
   /* Create four equal columns that sits next to each other */
   .column {
-    flex: 32%;
-    max-width: 32%;
+    flex: 33%;
+    max-width: 33%;
     padding: 0 4px;
+    
+    
   }
   
   .column img {
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
+    
   }
 
 h1 {
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
+    text-align: center;
+    
+}
+
+.footer{
+  text-align: center;
 }
  
   
