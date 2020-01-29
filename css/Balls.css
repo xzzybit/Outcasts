@@ -22,8 +22,8 @@
   
   /* Create four equal columns that sits next to each other */
   .column {
-    flex: 32%;
-    max-width: 32%;
+    flex: 33%;
+    max-width: 33%;
     padding: 0 4px;
   }
   
@@ -37,10 +37,28 @@ h1 {
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
+    text-align: center;
 }
- 
 
-  
-  
-  
-  
+.no-gutters {
+  margin-right: 0;
+  margin-left: 10;
+}
+
+footer{
+  background-color: rgb(166, 100, 253);
+    color: rgb(1, 0, 7);
+    height: 25px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+.perkule{
+  background-color: rgb(166, 100, 253);
+    color: rgb(1, 0, 7);
+    height: 25px;
+    text-align: center !important;
+    font-family: monospace;
+    font-size: 17px;
+}
