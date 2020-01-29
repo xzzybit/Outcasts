@@ -53,6 +53,11 @@ p{
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
 footer{
   background-color: rgb(166, 100, 253);
     color: rgb(1, 0, 7);
