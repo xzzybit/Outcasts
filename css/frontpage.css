@@ -47,3 +47,12 @@ h2{
     color: black;
     font-family: 'Times New Roman', Times, serif;
 }
+
+footer{
+    background-color: rgb(166, 100, 253);
+    color: rgb(1, 0, 7);
+    height: 25px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 17px;
+}
