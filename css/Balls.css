@@ -29,6 +29,7 @@
   
   .column img {
     margin-top: 8px;
+    margin-left: 30px;
     vertical-align: middle;
     width: 100%;
   }
@@ -42,7 +43,7 @@ h1 {
 
 .no-gutters {
   margin-right: 0;
-  margin-left: 10;
+  margin-left: 0;
 }
 
 footer{
@@ -50,15 +51,6 @@ footer{
     color: rgb(1, 0, 7);
     height: 25px;
     text-align: center;
-    font-family: monospace;
-    font-size: 17px;
-}
-
-.perkule{
-  background-color: rgb(166, 100, 253);
-    color: rgb(1, 0, 7);
-    height: 25px;
-    text-align: center !important;
     font-family: monospace;
     font-size: 17px;
 }
